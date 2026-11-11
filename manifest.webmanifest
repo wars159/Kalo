@@ -1,0 +1,12 @@
+  {
+ "name": "Kalò",
+ "short_name": "Kalò",
+ "description": "Parla, mangia, stringi la cintura. Diario calorie con coach.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f1f5f4",
+ "theme_color": "#0f766e",
+ "lang": "it",
+ "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
